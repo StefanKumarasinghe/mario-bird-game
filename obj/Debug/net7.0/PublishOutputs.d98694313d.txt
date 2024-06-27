@@ -1,0 +1,5 @@
+C:\Sys\home\Stefa\Game\bin\Debug\net7.0\publish\Game.exe
+C:\Sys\home\Stefa\Game\bin\Debug\net7.0\publish\Game.dll
+C:\Sys\home\Stefa\Game\bin\Debug\net7.0\publish\Game.deps.json
+C:\Sys\home\Stefa\Game\bin\Debug\net7.0\publish\Game.runtimeconfig.json
+C:\Sys\home\Stefa\Game\bin\Debug\net7.0\publish\Game.pdb

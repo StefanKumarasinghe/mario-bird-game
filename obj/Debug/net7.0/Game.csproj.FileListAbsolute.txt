@@ -1,0 +1,15 @@
+C:\Sys\home\Stefa\Game\obj\Debug\net7.0\Game.csproj.AssemblyReference.cache
+C:\Sys\home\Stefa\Game\obj\Debug\net7.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sys\home\Stefa\Game\obj\Debug\net7.0\Game.AssemblyInfoInputs.cache
+C:\Sys\home\Stefa\Game\obj\Debug\net7.0\Game.AssemblyInfo.cs
+C:\Sys\home\Stefa\Game\obj\Debug\net7.0\Game.csproj.CoreCompileInputs.cache
+C:\Sys\home\Stefa\Game\bin\Debug\net7.0\Game.exe
+C:\Sys\home\Stefa\Game\bin\Debug\net7.0\Game.deps.json
+C:\Sys\home\Stefa\Game\bin\Debug\net7.0\Game.runtimeconfig.json
+C:\Sys\home\Stefa\Game\bin\Debug\net7.0\Game.dll
+C:\Sys\home\Stefa\Game\bin\Debug\net7.0\Game.pdb
+C:\Sys\home\Stefa\Game\obj\Debug\net7.0\Game.dll
+C:\Sys\home\Stefa\Game\obj\Debug\net7.0\refint\Game.dll
+C:\Sys\home\Stefa\Game\obj\Debug\net7.0\Game.pdb
+C:\Sys\home\Stefa\Game\obj\Debug\net7.0\Game.genruntimeconfig.cache
+C:\Sys\home\Stefa\Game\obj\Debug\net7.0\ref\Game.dll
